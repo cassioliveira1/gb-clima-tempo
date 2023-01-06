@@ -9,5 +9,5 @@ Não é autoral. Baseado no do [Gustavo Barreto](https://github.com/barretogusta
 ## Faça uma consulta relacionado ao clima de qualquer lugar que desejar, apenas digitando o nome da cidade
 
 
-https://user-images.githubusercontent.com/92496028/211091751-2a021a6f-2e20-4d2f-b033-c97240217645.mp4
+![gif](https://media.giphy.com/media/8CjOiBZduuSm1olfYP/giphy.gif)
 
